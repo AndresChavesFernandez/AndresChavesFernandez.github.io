@@ -1,6 +1,3 @@
-- Sube los cambios al repositorio remoto
-  
-  
 # Los [🐈  **Gatos**](https://es.wikipedia.org/wiki/Felis_silvestris_catus) 
 
 ![gatito][cutekitty]
